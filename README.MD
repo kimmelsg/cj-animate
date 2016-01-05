@@ -24,10 +24,10 @@ import Animate from '@kimmel/animate'
 
 ###Props
 
-`start`: css that will be applied when the component first mounts
-`end`: css applied shortly after mounting
-`speed`: transition speed in milliseconds
-`transition`: The [transition property](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-property) you want to target
+- `start`: css that will be applied when the component first mounts
+- `end`: css applied shortly after mounting
+- `speed`: transition speed in milliseconds
+- `transition`: The [transition property](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-property) you want to target
 
 
 ###Problems
